@@ -1,8 +1,8 @@
 <h3>Welcome!</h3>
-<p>This project is used to keep the meanjsdocs application on google play in order to help community to develop resources and researchers through the smartphone.</p>
+<p>This project is used to keep the meanjsdocs application on Google Play in order to help the community to develop resources and researchers through their smartphones.</p>
 
-<h3>App on google play</h3>
-<p>You can get the app on google play. <br>
+<h3>App on Google Play</h3>
+<p>You can get the app on Google Play. <br>
 <a href="https://play.google.com/store/apps/developer?id=Equilibra+Digital" target="blank">meanjsdocs on google play</a></p>
 
 <h3>What is MEAN.JS?</h3>
