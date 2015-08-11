@@ -3,7 +3,7 @@
 
 <h3>App on Google Play</h3>
 <p>You can get the app on Google Play. <br>
-<a href="https://play.google.com/store/apps/developer?id=Equilibra+Digital" target="blank">meanjsdocs on google play</a></p>
+<a href="https://play.google.com/store/apps/details?id=com.soufraz.meanjsdocs" target="blank">meanjsdocs on google play</a></p>
 
 <h3>What is MEAN.JS?</h3>
 <p>MEAN.JS is a full-stack JavaScript solution that helps you build fast, robust, and maintainable production web applications using MongoDB, Express, AngularJS, and Node.js.</p>
